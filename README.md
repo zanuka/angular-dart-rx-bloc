@@ -1,6 +1,6 @@
-# AngularDart+Flutter RX BLoC App Starter
+# AngularDart+Flutter RX BLoC Explorations
 
-**Objective** Create an AngularDart/Flutter app starter/scaffold that adheres to the BLoC (Business Logic Component) design guidelines, uses Reactive Programming, and promotes code sharing.
+**Objective** Explore the possibilities and create an AngularDart/Flutter app starter/scaffold that adheres to the BLoC (Business Logic Component) design guidelines, uses Reactive Programming, and promotes code sharing.
 
 ## Approach
 - use BLoC design guidelines
