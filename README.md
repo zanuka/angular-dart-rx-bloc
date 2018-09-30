@@ -3,8 +3,7 @@
 **Objective** Create an AngularDart/Flutter app starter/scaffold that adheres to the BLoC (Business Logic Component) design guidelines, uses Reactive Programming, and promotes code sharing.
 
 ## Approach
-- BLoC design guidelines
-- BLoC implementations
+- use BLoC design guidelines
 - streams / sinks
 - stream builders
 - stream controllers
@@ -20,4 +19,5 @@
 - every complex component should have corresponding BLoC
 - components should send inputs "as is"
 - components should show output as close as possible to "as is"
+- all branching should be based on simple BLoC boolean outputs
 
